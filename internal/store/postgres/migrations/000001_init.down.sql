@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS dead_letters, access_logs, session_events, sessions, devices, credentials, users;
